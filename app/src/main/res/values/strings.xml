@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PACE</string>
+    <string name="title_section1">Stories</string>
+    <string name="title_section2">Events</string>
+    <string name="title_section3">Contact</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="pace_title">PACE LA</string>
+    <string name="description">Founded in 1976, PACE is a community development corporation that creates economic solutions to meet the challenges of employment, education, housing, and business developments in the Pacific Asian and other diverse communities. </string>
+    <string name="contact">www.pacela.org</string>
+
+</resources>
